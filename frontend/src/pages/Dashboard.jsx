@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useAuth } from "../context/AuthContext";
+import { useAuth } from "../context/authContext";
 import { requestsAPI } from "../services/api";
 import LoadingSpinner from "../components/common/LoadingSpinner";
 import StatsCards from "../components/dashboard/StatsCards";

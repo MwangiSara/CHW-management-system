@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import { useAuth } from "../context/AuthContext";
+import { useAuth } from "../context/authContext";
 import { requestsAPI } from "../services/api";
 import LoadingSpinner from "../components/common/LoadingSpinner";
 import { PlusIcon, FunnelIcon } from "@heroicons/react/24/outline";
