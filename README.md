@@ -1,6 +1,6 @@
 # CHW Management System
 
-A system designed to manage Commodity Health Workers (CHWs) and their requests for commodities, with approval workflows managed by Community Health Assistants (CHAs). The backend is built using Django, and the frontend uses React.js.
+A system designed to manage Commodity Health Workers (CHWs) and their requests for commodities, with approval workflows managed by Community Health Assistants (CHAs). The backend is built using Django, and the frontend uses React.js. [View the system](https://chw-management-system.vercel.app/)
 
 ## Overview
 
